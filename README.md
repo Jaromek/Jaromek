@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm Jaromek, a machine learning and artificial intelligence enthusiast with a strong focus on data science and data visualization.  
+I'm Kuba, a machine learning and artificial intelligence enthusiast with a strong focus on data science and data visualization.  
 I love exploring the depths of data, building models, and transforming raw information into actionable insights.
 
 Currently, I am expanding my skills in advanced data processing, signal analysis, and AI development, with hands-on experience in Python, PyTorch, modern ML workflows, Rust and C++.
