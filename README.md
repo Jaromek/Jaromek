@@ -9,15 +9,10 @@ Feel free to explore my repositories — here you'll find projects related to ma
 
 # 🔬 I'm currently working on:
 
-## 🧠 **RAG-based agent for scientific articles**  
-- Integration of **`Retrieval-Augmented Generation (RAG)`** techniques to automatically extract, synthesize, and summarize scientific literature.  
-- Development of a **`proof-of-concept agent`** that assists in drafting and analyzing academic articles.
-
-
-## 🤖 **Machine Learning Projects**
-- **`playingCardRecognition`** – A system for visual playing card recognition using **CNNs in PyTorch**.
-- **`liveTonationClassification`** – Real-time **musical key detection** based on **FFT** and a **Python GUI**.
-
+## 🌌 **gravtunnel – Quantum Tunneling in Curved Spacetime**
+- Numerical simulation of **quantum tunneling near black hole event horizons** using the **Schrödinger equation** and **Schwarzschild metric**.
+- Hybrid architecture: **fast ODE solvers in Rust** (via `pyo3`), integrated with **Python for visualization and analysis**.
+- Generates synthetic "Hawking-like" emission signals for further **signal processing and ML experimentation** *(e.g. PSD, spectrograms)*.
 
 ## 🧪 **Custom Data Augmentation Techniques**
 - **`radialAngleAugmentation`** – A method that projects tabular data using **PCA** onto a 2D space and generates synthetic samples based on **polar coordinates** *(angle and radius)*. The sampling respects **local density and structure** to augment minority classes effectively.
