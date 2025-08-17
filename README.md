@@ -9,7 +9,7 @@ Feel free to explore my repositories — here you'll find projects related to ma
 
 # 🔬 I'm currently working on:
 
-## 🧠 **RAG-based agent for scientific articles** *(WIP)*  
+## 🧠 **RAG-based agent for scientific articles**  
 - Integration of **`Retrieval-Augmented Generation (RAG)`** techniques to automatically extract, synthesize, and summarize scientific literature.  
 - Development of a **`proof-of-concept agent`** that assists in drafting and analyzing academic articles.
 
