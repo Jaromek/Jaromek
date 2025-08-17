@@ -9,7 +9,7 @@ Feel free to explore my repositories — here you'll find projects related to ma
 
 # 🔬 I'm currently working on:
 
-## 🌌 **gravtunnel – Quantum Tunneling in Curved Spacetime**
+## 🌌 **QGravTunneling – Quantum Tunneling in Curved Spacetime**
 - Numerical simulation of **quantum tunneling near black hole event horizons** using the **Schrödinger equation** and **Schwarzschild metric**.
 - Hybrid architecture: **fast ODE solvers in Rust** (via `pyo3`), integrated with **Python for visualization and analysis**.
 - Generates synthetic "Hawking-like" emission signals for further **signal processing and ML experimentation** *(e.g. PSD, spectrograms)*.
