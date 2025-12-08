@@ -14,8 +14,12 @@ Feel free to explore my repositories — here you'll find projects related to ma
 - Hybrid architecture: **fast ODE solvers in Rust** (via `pyo3`), integrated with **Python for visualization and analysis**.
 - Generates synthetic "Hawking-like" emission signals for further **signal processing and ML experimentation** *(e.g. PSD, spectrograms)*.
 
-## 🧪 **Custom Data Augmentation Techniques**
-- **`radialAngleAugmentation`** – A method that projects tabular data using **PCA** onto a 2D space and generates synthetic samples based on **polar coordinates** *(angle and radius)*. The sampling respects **local density and structure** to augment minority classes effectively.
+## 🌌 EinsteinPINN – General Relativity Field Solver
+
+Application of **Physics-Informed Neural Networks (PINNs)** for the **mesh-free solution** of the nonlinear **Einstein Field Equations**.
+
+- Leverages **automatic differentiation (PyTorch/JAX)** to compute curvature tensors, embedding physical laws directly into the neural network **loss function**.
+- Enables efficient simulation of **spacetime metrics** (e.g. **Schwarzschild**, **Kerr**) and solving **inverse problems in GR** with reduced computational cost compared to classical numerical relativity.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jaromek) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/jaromek) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/22343593) 
