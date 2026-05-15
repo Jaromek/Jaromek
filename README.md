@@ -14,7 +14,7 @@ Feel free to explore my repositories — here you'll find projects related to ma
 - Hybrid architecture: **fast ODE solvers in Rust** (via `pyo3`), integrated with **Python for visualization and analysis**.
 - Generates synthetic "Hawking-like" emission signals for further **signal processing and ML experimentation** *(e.g. PSD, spectrograms)*.
 
-## ☄️ EinsteinPINN – General Relativity Field Solver
+## ☄️ EinsteinPINN – General Relativity Field Solver &ndash; almost done
 
 Application of **Physics-Informed Neural Networks (PINNs)** for the **mesh-free solution** of the nonlinear **Einstein Field Equations**.
 
